@@ -17,6 +17,19 @@ All BSD licensed files are unaltered and pristine reproductions
 of the files contained in the sailfishsilica-qt5 packages shipped
 by Jolla
 
+Files that have been removed, according to above policy:
+ * usr/lib/qt5/qml/Sailfish/Silica/Keypad.qml
+ * usr/lib/qt5/qml/Sailfish/Silica/libsailfishsilicaplugin.so
+ * usr/lib/qt5/qml/Sailfish/Silica/ListItem.qml
+ * usr/lib/qt5/qml/Sailfish/Silica/OpacityRampEffect.qml
+ * usr/lib/qt5/qml/Sailfish/Silica/PanelBackground.qml
+ * usr/lib/qt5/qml/Sailfish/Silica/plugins.qmltypes
+ * usr/lib/qt5/qml/Sailfish/Silica/qmldir
+ * usr/lib/qt5/qml/Sailfish/Silica/private/KeypadButton.qml
+ * usr/lib/qt5/qml/Sailfish/Silica/private/ReturnToHomeHintCounter.qml
+ * usr/lib/qt5/qml/Sailfish/Silica/private/Wallpaper.qml
+ * usr/share/translations/sailfishsilica-qt5_eng_en.qm
+
 note
 ----
 
